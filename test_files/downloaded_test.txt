@@ -1,0 +1,3 @@
+This is a highly confidential test file.
+It contains top secret data that must be encrypted.
+1234567890
